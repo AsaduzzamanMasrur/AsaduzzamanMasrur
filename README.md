@@ -10,7 +10,9 @@
 - 📫 How to reach me **azmn.uk@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/asaduzzaman-dataanalyst/](https://www.linkedin.com/in/asaduzzaman-dataanalyst/)
-- EDUCATION
+
+ 
+EDUCATION
 
 🎓 MSc in Applied Artificial Intelligence — London South Bank University
 
