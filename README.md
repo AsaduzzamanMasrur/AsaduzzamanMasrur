@@ -16,9 +16,13 @@ EDUCATION
 
 🎓 MSc in Applied Artificial Intelligence — London South Bank University- January 2023 – June 2024 
 Applied Artificial Intelligence
+
 •	Statistical analysis and modelling – developed my understanding of statistical data analysis and build models for concerning problems
+
 •	Machine Learning – designed and developed AI algorithms and trained machine learning models using collected data to optimise model performance
+
 •	Data mining and analysis – This module taught data mining techniques like sequence analysis, classification, clustering, and forecasting, also industry software (Tableau) to analyse structured and unstructured big data from different sources for dashboard.
+
 •	Data Management – Gained proficiency in SQL for data cleaning, database creation, and data warehousing using star schema
 
 
